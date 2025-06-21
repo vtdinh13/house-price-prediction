@@ -9,3 +9,9 @@ venv/
 # Logs and temp
 *.log
 *.tmp
+
+# Files
+test.ipynb
+
+# Folders
+catboost_info
